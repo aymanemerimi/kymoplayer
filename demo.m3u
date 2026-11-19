@@ -3,11 +3,11 @@
 # Films d'animation de la Blender Foundation / Blender Studio, licence Creative Commons BY.
 # Affiches : Wikimedia Commons (CC BY, Blender Foundation), recadrées en 600×900.
 #EXTINF:-1 tvg-id="bbb" tvg-logo="https://raw.githubusercontent.com/aymanemerimi/kymoplayer/main/posters/big-buck-bunny.jpg" group-title="Blender TV",Big Buck Bunny
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://test-streams.mux.dev/x36xhzz/url_8/193039199_mp4_h264_aac_fhd_7.m3u8
 #EXTINF:-1 tvg-id="ed" tvg-logo="https://raw.githubusercontent.com/aymanemerimi/kymoplayer/main/posters/elephants-dream.jpg" group-title="Blender TV",Elephants Dream
 https://playertest.longtailvideo.com/adaptive/elephants_dream_v4/index.m3u8
 #EXTINF:-1 tvg-id="tos" tvg-logo="https://raw.githubusercontent.com/aymanemerimi/kymoplayer/main/posters/tears-of-steel.jpg" group-title="Blender TV",Tears of Steel
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/tears-of-steel-audio_eng=128002-video_eng=2200000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aymanemerimi/kymoplayer/main/posters/sintel.jpg" group-title="Films · Blender",Sintel
 https://archive.org/download/Sintel/sintel-2048-stereo.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aymanemerimi/kymoplayer/main/posters/caminandes.jpg" group-title="Séries · Blender",Caminandes S01E01 Llama Drama
