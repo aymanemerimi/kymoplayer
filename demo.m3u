@@ -1,24 +1,18 @@
 #EXTM3U
 # KYMO PLAYER — playlist de démonstration (contenus 100 % libres et légaux)
-# NASA TV : domaine public (NASA). Flux de test publics : Akamai, Unified Streaming, Apple, Mux.
-# Films Blender (Creative Commons BY, Blender Foundation) : Tears of Steel, Big Buck Bunny, Elephants Dream, Sintel.
-#EXTINF:-1 tvg-id="nasa" group-title="Espace · NASA",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="nasa-media" group-title="Espace · NASA",NASA TV Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 group-title="Flux de test",Akamai Live Test
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-#EXTINF:-1 group-title="Flux de test",Unified Streaming Live
-https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
-#EXTINF:-1 group-title="Flux de test",Mire Apple (test)
-https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/BigBuckBunny_124" group-title="Blender TV",Big Buck Bunny 24/7
+# Films d'animation de la Blender Foundation / Blender Studio, licence Creative Commons BY.
+# Affiches : Wikimedia Commons (CC BY, Blender Foundation), recadrées en 600×900.
+#EXTINF:-1 tvg-id="bbb" tvg-logo="https://raw.githubusercontent.com/aymanemerimi/kymoplayer/main/posters/big-buck-bunny.jpg" group-title="Blender TV",Big Buck Bunny
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/Tears-of-Steel" group-title="Films libres (Blender)",Tears of Steel
-https://archive.org/download/Tears-of-Steel/tears_of_steel_1080p.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/BigBuckBunny_124" group-title="Séries libres (Blender)",Blender Open Movies S01E01 Big Buck Bunny
-https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/ElephantsDream" group-title="Séries libres (Blender)",Blender Open Movies S01E02 Elephants Dream
-https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/Sintel" group-title="Séries libres (Blender)",Blender Open Movies S01E03 Sintel
-https://archive.org/download/Sintel/sintel-2048-stereo_512kb.mp4
+#EXTINF:-1 tvg-id="ed" tvg-logo="https://raw.githubusercontent.com/aymanemerimi/kymoplayer/main/posters/elephants-dream.jpg" group-title="Blender TV",Elephants Dream
+https://playertest.longtailvideo.com/adaptive/elephants_dream_v4/index.m3u8
+#EXTINF:-1 tvg-id="tos" tvg-logo="https://raw.githubusercontent.com/aymanemerimi/kymoplayer/main/posters/tears-of-steel.jpg" group-title="Blender TV",Tears of Steel
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aymanemerimi/kymoplayer/main/posters/sintel.jpg" group-title="Films · Blender",Sintel
+https://archive.org/download/Sintel/sintel-2048-stereo.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aymanemerimi/kymoplayer/main/posters/caminandes.jpg" group-title="Séries · Blender",Caminandes S01E01 Llama Drama
+https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aymanemerimi/kymoplayer/main/posters/caminandes.jpg" group-title="Séries · Blender",Caminandes S01E02 Gran Dillama
+https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aymanemerimi/kymoplayer/main/posters/caminandes.jpg" group-title="Séries · Blender",Caminandes S01E03 Llamigos
+https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4
