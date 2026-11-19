@@ -9,10 +9,10 @@ https://playertest.longtailvideo.com/adaptive/elephants_dream_v4/index.m3u8
 #EXTINF:-1 tvg-id="tos" tvg-logo="https://raw.githubusercontent.com/aymanemerimi/kymoplayer/main/posters/tears-of-steel.jpg" group-title="Blender TV",Tears of Steel
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/tears-of-steel-audio_eng=128002-video_eng=2200000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aymanemerimi/kymoplayer/main/posters/sintel.jpg" group-title="Films · Blender",Sintel
-https://archive.org/download/Sintel/sintel-2048-stereo.mp4
+https://archive.org/download/sintel_cc_by_2010/sintel-2048-stereo.ia.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aymanemerimi/kymoplayer/main/posters/caminandes.jpg" group-title="Séries · Blender",Caminandes S01E01 Llama Drama
 https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aymanemerimi/kymoplayer/main/posters/caminandes.jpg" group-title="Séries · Blender",Caminandes S01E02 Gran Dillama
-https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4
+https://archive.org/download/caminandes-gran-dillama-blender-foundations-new-open-movie.webm.-720p.vp-9-mac/Caminandes_-_Gran_Dillama_-_Blender_Foundation%27s_new_Open_Movie.webm.720p.vp9-mac.ia.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aymanemerimi/kymoplayer/main/posters/caminandes.jpg" group-title="Séries · Blender",Caminandes S01E03 Llamigos
 https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4
